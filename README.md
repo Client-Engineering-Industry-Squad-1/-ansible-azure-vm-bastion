@@ -1,0 +1,1 @@
+# -ansible-azure-vm-bastion
